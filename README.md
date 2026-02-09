@@ -1,9 +1,8 @@
 # 🏠 Análisis Inmobiliario: Comparación de Valor por Vecindario
-
-![casas](https://github.com/user-attachments/assets/b48dc62a-293d-46de-838c-65e13868f1cc)
-
 ## 📝 Descripción del Proyecto
 Este proyecto utiliza un modelo de datos avanzado en Excel para analizar el valor de mercado en diferentes zonas geográficas. Se analizó el precio de las viviendas utilizando el **Precio por Metro Cuadrado Habitable**, permitiendo una comparación justa entre propiedades de distintos tamaños.
+
+![casas](https://github.com/user-attachments/assets/b48dc62a-293d-46de-838c-65e13868f1cc)
 
 ---
 
